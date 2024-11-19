@@ -1,0 +1,18 @@
+{
+  "name": "rolld20",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.4.10"
+  },
+  "packageManager": "pnpm@10.0.0-alpha.2+sha256.72eda20211e8be99fa558b00a5f1040f0ab834378be2885a58521c11577e3698",
+  "dependencies": {
+    "gsap": "^3.12.5"
+  }
+}

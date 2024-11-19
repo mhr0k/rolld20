@@ -1,0 +1,19 @@
+.container {
+  height: 260px;
+  width: 260px;
+  background: url("/20.png") no-repeat;
+}
+
+/* .container.roll {
+  background: url("/roll.png");
+  animation: roll 3s steps(60);
+}
+
+@keyframes roll {
+  0% {
+    background-position: 0 0;
+  }
+  100% {
+    background-position: -15360px 0;
+  }
+} */
